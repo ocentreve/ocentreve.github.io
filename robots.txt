@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocentreve.github.io/sitemap.html.gz
+Sitemap: https://ocentreve.github.io/app/sitemap.html.gz
+Sitemap: https://ocentreve.github.io/assets/sitemap.html.gz
+Sitemap: https://ocentreve.github.io/css/sitemap.html.gz
+Sitemap: https://ocentreve.github.io/includes/sitemap.html.gz
+Sitemap: https://ocentreve.github.io/item/sitemap.html.gz
+Sitemap: https://ocentreve.github.io/src/sitemap.html.gz
